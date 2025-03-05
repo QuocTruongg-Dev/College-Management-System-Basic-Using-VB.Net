@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VB.NET\\Student Attendance System Using VBNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E994383D-558E-4FB6-B611-89F4B3D8D196}|Student Attendance System Using VBNET\\Student Attendance System Using VBNET.vbproj|D:\\VB.NET\\Student Attendance System Using VBNET\\Student Attendance System Using VBNET\\StudentDataHandler.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E994383D-558E-4FB6-B611-89F4B3D8D196}|Student Attendance System Using VBNET\\Student Attendance System Using VBNET.vbproj|solutionrelative:Student Attendance System Using VBNET\\StudentDataHandler.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E994383D-558E-4FB6-B611-89F4B3D8D196}|Student Attendance System Using VBNET\\Student Attendance System Using VBNET.vbproj|d:\\vb.net\\student attendance system using vbnet\\student attendance system using vbnet\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E994383D-558E-4FB6-B611-89F4B3D8D196}|Student Attendance System Using VBNET\\Student Attendance System Using VBNET.vbproj|solutionrelative:student attendance system using vbnet\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E994383D-558E-4FB6-B611-89F4B3D8D196}|Student Attendance System Using VBNET\\Student Attendance System Using VBNET.vbproj|D:\\VB.NET\\Student Attendance System Using VBNET\\Student Attendance System Using VBNET\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E994383D-558E-4FB6-B611-89F4B3D8D196}|Student Attendance System Using VBNET\\Student Attendance System Using VBNET.vbproj|solutionrelative:Student Attendance System Using VBNET\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDataHandler.vb",
+              "DocumentMoniker": "D:\\VB.NET\\Student Attendance System Using VBNET\\Student Attendance System Using VBNET\\StudentDataHandler.vb",
+              "RelativeDocumentMoniker": "Student Attendance System Using VBNET\\StudentDataHandler.vb",
+              "ToolTip": "D:\\VB.NET\\Student Attendance System Using VBNET\\Student Attendance System Using VBNET\\StudentDataHandler.vb",
+              "RelativeToolTip": "Student Attendance System Using VBNET\\StudentDataHandler.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T05:49:31.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\VB.NET\\Student Attendance System Using VBNET\\Student Attendance System Using VBNET\\Form1.vb",
+              "RelativeDocumentMoniker": "Student Attendance System Using VBNET\\Form1.vb",
+              "ToolTip": "D:\\VB.NET\\Student Attendance System Using VBNET\\Student Attendance System Using VBNET\\Form1.vb",
+              "RelativeToolTip": "Student Attendance System Using VBNET\\Form1.vb",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwvykAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T03:36:40.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\VB.NET\\Student Attendance System Using VBNET\\Student Attendance System Using VBNET\\Form1.vb",
+              "RelativeDocumentMoniker": "Student Attendance System Using VBNET\\Form1.vb",
+              "ToolTip": "D:\\VB.NET\\Student Attendance System Using VBNET\\Student Attendance System Using VBNET\\Form1.vb [Design]",
+              "RelativeToolTip": "Student Attendance System Using VBNET\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T03:11:26.392Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

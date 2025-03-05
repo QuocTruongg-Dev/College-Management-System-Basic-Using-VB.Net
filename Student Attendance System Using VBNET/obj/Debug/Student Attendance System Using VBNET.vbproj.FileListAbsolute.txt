@@ -1,0 +1,100 @@
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Student Attendance System Using VBNET.exe.config
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Student Attendance System Using VBNET.exe
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Student Attendance System Using VBNET.pdb
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Student Attendance System Using VBNET.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Data.SqlClient.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Data.SqlClient.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\obj\Debug\Student Attendance System Using VBNET.vbproj.AssemblyReference.cache
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\obj\Debug\Student_Attendance_System_Using_VBNET.Form1.resources
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\obj\Debug\Student_Attendance_System_Using_VBNET.Resources.resources
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\obj\Debug\Student Attendance System Using VBNET.vbproj.GenerateResource.cache
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\obj\Debug\Student Attendance System Using VBNET.vbproj.CoreCompileInputs.cache
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\obj\Debug\Student .B944B0B4.Up2Date
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\obj\Debug\Student Attendance System Using VBNET.exe
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\obj\Debug\Student Attendance System Using VBNET.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\obj\Debug\Student Attendance System Using VBNET.pdb
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Azure.Core.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Azure.Identity.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.Options.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Identity.Client.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Buffers.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.ClientModel.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Memory.Data.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Memory.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Numerics.Vectors.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Security.AccessControl.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Security.Principal.Windows.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Text.Encodings.Web.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Text.Json.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.ValueTuple.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Azure.Core.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Azure.Identity.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.Options.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Identity.Client.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Buffers.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.ClientModel.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Memory.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Memory.Data.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Numerics.Vectors.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Security.AccessControl.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Security.Principal.Windows.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Text.Encodings.Web.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Text.Json.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\System.ValueTuple.xml
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\VB.NET\Student Attendance System Using VBNET\Student Attendance System Using VBNET\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
